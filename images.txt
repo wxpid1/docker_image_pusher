@@ -1,4 +1,4 @@
 #支持私库
 solr:8.11.1
 #支持指定架构
---platform=linux/arm64 proxy
+--platform=linux/arm64 proxy_images
